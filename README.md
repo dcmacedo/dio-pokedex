@@ -1,0 +1,2 @@
+# dio-pokedex
+ Este repositório contém a implementação da "Pokedex" proposto pela DIO (Digital Innovation One). Utilizando tecnologias web como HTML, CSS e JavaScript, a aplicação oferece uma experiência interativa e visualmente atraente para explorar e aprender sobre diferentes Pokémon. Navegue pela Pokedex, visualize informações detalhadas sobre cada Pokémon e divirta-se explorando este projeto prático e educativo.
